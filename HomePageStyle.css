@@ -1,0 +1,46 @@
+
+.logoContainer {
+    background: rgb(114, 148, 209);
+    background-size:cover;
+    margin-top: -100px;
+    height: 80vh;
+    width: 100%;
+}
+
+.logoQuote {
+    background: url(/newlogo.png) no-repeat;
+    background-size: contain;
+    background-position: center;
+    height: 80vh;
+    width: 100%;
+}
+
+.name {
+    font-size: 40px;
+    color: rgb(0, 0, 0);
+    text-align: center;
+    position: relative; top:660px;
+    text-align: center;
+    padding-bottom: 10px;
+}
+
+.AboutSec {
+    background-color: aliceblue;
+    height: auto;
+    width: 100%;
+    overflow-y: scroll;
+}
+
+.Habout{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 20px;
+    margin-left: 5px;
+    margin-right: 5px;
+}
+.AchSec{
+    background-color: aliceblue;
+    height: auto;
+    width: 100%;
+    overflow-y: scroll;
+
+}
